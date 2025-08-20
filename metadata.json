@@ -1,0 +1,5 @@
+{
+  "name": "Luyện Chính Tả Tiếng Trung với AI",
+  "description": "Một ứng dụng để luyện nghe và viết chính tả tiếng Trung. Người dùng có thể tải lên tệp âm thanh, gõ lại những gì họ nghe được, và để AI chấm điểm bài làm của họ so với bản ghi chính xác, cung cấp điểm số và phản hồi chi tiết.",
+  "requestFramePermissions": []
+}
